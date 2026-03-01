@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI &amp; Tech Daily Brief</title>
+    <link>https://ks-podcasts.netlify.app/</link>
+    <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2026 02:55:32 +0000</lastBuildDate>
+    <atom:link href="https://ks-podcasts.netlify.app/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Knowledge Studio</itunes:author>
+    <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 28, 2026</title>
+      <description># AI DAILY BRIEF PODCAST SCRIPT
+
+Hey, welcome back. We've got a lot to unpack today, and honestly, some of this is shaping up to be pretty consequential for how the entire industry moves forward. So let's dig in.
+
+The biggest story right now—and I think this is the story that's going to reverberate ...</description>
+      <enclosure url="https://ks-podcasts.netlify.app/podcast_ai_tech_2026-02-28.mp3" length="10939244" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-32</guid>
+      <pubDate>Sun, 01 Mar 2026 02:55:32 +0000</pubDate>
+      <itunes:duration>00:09:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 27, 2026</title>
+      <description># AI DAILY BRIEF PODCAST SCRIPT — FEBRUARY 27, 2026
+
+Hey, welcome back. It's Thursday, February 27th, and there's something happening in the AI space today that I think deserves your full attention. This isn't about a new benchmark or a marginal capability improvement. This is about how the state is...</description>
+      <enclosure url="https://ks-podcasts.netlify.app/podcast_ai_tech_2026-02-27.mp3" length="23663084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-30</guid>
+      <pubDate>Sat, 28 Feb 2026 03:11:12 +0000</pubDate>
+      <itunes:duration>00:19:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 25, 2026</title>
+      <description># AI Daily Briefing — February 25, 2026
+
+Hey, welcome back. It's February 25th, and we've got a lot to unpack today. There's a really important story emerging around open-source AI security that I think is going to reshape how teams deploy models in production. We're also seeing some fascinating dev...</description>
+      <enclosure url="https://ks-podcasts.netlify.app/podcast_ai_tech_2026-02-25.mp3" length="16522124" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-29</guid>
+      <pubDate>Thu, 26 Feb 2026 03:10:52 +0000</pubDate>
+      <itunes:duration>00:13:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 24, 2026</title>
+      <description># AI DAILY BRIEF PODCAST — FEBRUARY 24, 2026
+
+Hey. Welcome. Let's walk through what's actually happening in AI this week, because there's a structural shift underneath the noise that matters more than the usual capability announcements.
+
+Here's what I'm looking at today: Anthropic just made a choice...</description>
+      <enclosure url="https://ks-podcasts.netlify.app/podcast_ai_tech_2026-02-24.mp3" length="13080524" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-25</guid>
+      <pubDate>Wed, 25 Feb 2026 03:05:18 +0000</pubDate>
+      <itunes:duration>00:10:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 23, 2026</title>
+      <description># AI Daily Brief — February 23, 2026
+
+Hello, and welcome. I'm looking at a pretty fascinating moment in AI right now, actually. There's something shifting in how the competitive game works, and it's worth paying attention to because it signals that we're past the phase where the biggest, smartest mo...</description>
+      <enclosure url="https://ks-podcasts.netlify.app/podcast_ai_tech_2026-02-23.mp3" length="14187884" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-23</guid>
+      <pubDate>Tue, 24 Feb 2026 03:08:48 +0000</pubDate>
+      <itunes:duration>00:11:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 22, 2026</title>
+      <description># AI Daily Brief — February 22, 2026
+
+Hey, welcome. We're tracking some really significant shifts in how the AI market is actually organizing itself, and I want to walk you through what's happening. Because the signals today tell a story that's pretty different from what the headline capability race...</description>
+      <enclosure url="https://ks-podcasts.netlify.app/podcast_ai_tech_2026-02-22.mp3" length="14341004" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-21</guid>
+      <pubDate>Mon, 23 Feb 2026 03:06:42 +0000</pubDate>
+      <itunes:duration>00:11:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI &amp; Tech Daily Brief — February 20, 2026</title>
+      <description># AI &amp; TECH DAILY — February 20, 2026
+
+Hey, welcome back. Today we're looking at a story that's been building for months but just crystallized into something you can actually see. The infrastructure bets that looked inevitable six months ago are collapsing in real time. And the reasons why matter a ...</description>
+      <enclosure url="https://ks-podcasts.netlify.app/podcast_ai_tech_2026-02-20.mp3" length="13834124" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-18</guid>
+      <pubDate>Sat, 21 Feb 2026 03:06:08 +0000</pubDate>
+      <itunes:duration>00:11:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
