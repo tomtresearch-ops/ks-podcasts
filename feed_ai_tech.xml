@@ -7,12 +7,25 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 02:56:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 02:57:54 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 2, 2026</title>
+      <description># PODCAST SCRIPT: AI DAILY BRIEF
+
+Hey, welcome back. Let's dig into what's happening in AI infrastructure and policy right now, because today we've got some signals that really connect into a bigger picture about how the next 18 months are going to unfold.
+
+So let's start with the headline that's be...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-02.mp3" length="13233644" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-34</guid>
+      <pubDate>Tue, 03 Mar 2026 02:57:54 +0000</pubDate>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 1, 2026</title>
       <description>Good morning. Let's walk through what's happening in AI today, because there's a real reckoning unfolding—and it involves everything from Pentagon operations to app store rankings to the future of how companies actually build this stuff.
