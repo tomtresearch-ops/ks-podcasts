@@ -7,12 +7,27 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 02:57:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 02:57:31 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 3, 2026</title>
+      <description>Here's your podcast script:
+
+---
+
+Hey, welcome back. There's something really important happening right now in how AI actually gets built and deployed, and I want to walk you through it because it's not the story people are leading with.
+
+Let's start with the top signal today. Junyang Lin—one of the...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-03.mp3" length="12154604" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-35</guid>
+      <pubDate>Wed, 04 Mar 2026 02:57:31 +0000</pubDate>
+      <itunes:duration>00:10:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 2, 2026</title>
       <description># PODCAST SCRIPT: AI DAILY BRIEF
