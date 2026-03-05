@@ -7,12 +7,23 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 02:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 02:59:47 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 4, 2026</title>
+      <description>Good morning. Today's a really interesting day in the space because we're watching something shift from competitive to structural. And it starts with a pretty stark moment of honesty—or maybe desperation—from Anthropic's leadership.
+
+Let's take a look at the top signal. Dario Amodei just publicly ca...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-04.mp3" length="15041804" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-37</guid>
+      <pubDate>Thu, 05 Mar 2026 02:59:47 +0000</pubDate>
+      <itunes:duration>00:12:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 3, 2026</title>
       <description>Here's your podcast script:
