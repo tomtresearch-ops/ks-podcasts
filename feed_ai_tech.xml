@@ -7,12 +7,21 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 02:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 01:59:34 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 8, 2026</title>
+      <description>Welcome back. Today we're looking at the moment when AI capabilities stop being theoretical and start being measured in real vulnerabilities found and real jobs that might not need to exist anymore. And there's also a quiet but significant shift happening in how governments are using regulatory powe...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-08.mp3" length="14226284" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-42</guid>
+      <pubDate>Mon, 09 Mar 2026 01:59:34 +0000</pubDate>
+      <itunes:duration>00:11:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 7, 2026</title>
       <description>Welcome to the show. Today's brief is unusual—we've got some genuinely concerning developments happening simultaneously, and they're all connected in ways that most people in the industry aren't seeing clearly yet. Let's walk through what's happening.
