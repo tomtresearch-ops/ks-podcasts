@@ -7,12 +7,23 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2026 01:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 02:00:39 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 9, 2026</title>
+      <description>Hey, welcome back. We're tracking three major signals today that tell a pretty interesting story about how the AI market is actually organizing itself—and it's different from what people were predicting even a week ago.
+
+Let's start with the one that caught everyone's attention. Anthropic is suing t...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-09.mp3" length="15956204" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-43</guid>
+      <pubDate>Tue, 10 Mar 2026 02:00:39 +0000</pubDate>
+      <itunes:duration>00:13:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 8, 2026</title>
       <description>Welcome back. Today we're looking at the moment when AI capabilities stop being theoretical and start being measured in real vulnerabilities found and real jobs that might not need to exist anymore. And there's also a quiet but significant shift happening in how governments are using regulatory powe...</description>
