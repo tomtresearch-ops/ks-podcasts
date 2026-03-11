@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 03:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 02:08:52 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -19,6 +19,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Health &amp; Longevity Daily Brief — March 10, 2026</title>
+      <description>Welcome back. We've got a really interesting set of developments today that I think points toward something fundamental shifting in how we think about aging and prevention.
+
+Let's start with the top signal, because this one's worth sitting with for a moment. Researchers at UC San Diego have identifi...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-10.mp3" length="11949644" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-48</guid>
+      <pubDate>Wed, 11 Mar 2026 02:08:52 +0000</pubDate>
+      <itunes:duration>00:09:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 6, 2026</title>
       <description>Welcome back. Today's research is pointing us toward something that's been lurking just beneath the surface of aging biology for years, and it's starting to crystallize into something actionable. Let me walk you through what we're seeing.
