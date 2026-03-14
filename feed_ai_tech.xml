@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 02:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 01:56:18 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -19,6 +19,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 13, 2026</title>
+      <description>Hey, welcome back. Let's dig into what's actually shifting in AI right now, because today's signals are pointing toward something pretty fundamental about how the competitive landscape is reorganizing.
+
+Here's the headline: we're watching the capability frontier detach from the operational frontier ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-13.mp3" length="10056524" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-57</guid>
+      <pubDate>Sat, 14 Mar 2026 01:56:18 +0000</pubDate>
+      <itunes:duration>00:08:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 12, 2026</title>
       <description>Good morning. Today's briefing has a few genuinely important signals about where the competitive frontier in AI is actually moving—and it's not where most of the conversation has been focused.
