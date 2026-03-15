@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 01:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 01:56:33 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -19,6 +19,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 14, 2026</title>
+      <description>Welcome back. Today we're watching the research infrastructure layer fundamentally reorient itself, and it's happening in three places simultaneously. Let's walk through what's happening and what it means.
+
+The biggest story today is that arXiv—this 34-year-old backbone of AI and ML research, the pl...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-14.mp3" length="11005004" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-59</guid>
+      <pubDate>Sun, 15 Mar 2026 01:56:33 +0000</pubDate>
+      <itunes:duration>00:09:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 13, 2026</title>
       <description>Hey, welcome back. Let's dig into what's actually shifting in AI right now, because today's signals are pointing toward something pretty fundamental about how the competitive landscape is reorganizing.
