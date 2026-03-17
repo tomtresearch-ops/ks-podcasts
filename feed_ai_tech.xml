@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 02:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 01:58:41 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -19,6 +19,15 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 16, 2026</title>
+      <description>Welcome back. Today we're seeing something that feels like a genuine inflection point in how AI systems are actually going to work in the real world. And it's not about bigger models or better benchmarks—it's about the fundamental shift from training to execution, from capability to reliability, and...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-16.mp3" length="12732524" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-61</guid>
+      <pubDate>Tue, 17 Mar 2026 01:58:41 +0000</pubDate>
+      <itunes:duration>00:10:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 15, 2026</title>
       <description>Hey everyone, welcome back. We've got a fascinating day in the infrastructure layer today, and I want to walk you through what's actually happening beneath the surface of some pretty significant moves from Google and Anthropic. The story isn't what you might think it is on first read.
