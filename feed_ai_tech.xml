@@ -7,11 +7,16 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 01:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 01:56:17 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Knowledge Studio</itunes:name>
+      <itunes:email>placeholder@example.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png"/>
     <image>
       <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png</url>
@@ -19,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 18, 2026</title>
+      <description>Welcome to the daily brief. Today we're looking at a major repositioning in the agent space—and it's not what most people expected. Let's dig in.
+
+So the story here is that Anthropic shipped Claude Dispatch today, and this is genuinely a different move than what we've been seeing from the other labs...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-18.mp3" length="11015084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-68</guid>
+      <pubDate>Thu, 19 Mar 2026 01:56:17 +0000</pubDate>
+      <itunes:duration>00:09:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 17, 2026</title>
       <description>Welcome to the AI Daily. Let's talk about what's happening in agent infrastructure today, because there's a really important shift taking place in how the major players are positioning themselves—and it's not obvious unless you're paying attention to the economics, not just the model announcements.

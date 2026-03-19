@@ -12,6 +12,11 @@
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Knowledge Studio</itunes:name>
+      <itunes:email>placeholder@example.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png"/>
     <image>
       <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png</url>
