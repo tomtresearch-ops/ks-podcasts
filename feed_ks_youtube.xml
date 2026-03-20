@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YouTube Intelligence Brief</title>
+    <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Mar 2026 03:39:38 +0000</lastBuildDate>
+    <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Knowledge Studio</itunes:author>
+    <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Knowledge Studio</itunes:name>
+      <itunes:email>placeholder@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png"/>
+    <image>
+      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png</url>
+      <title>YouTube Intelligence Brief</title>
+      <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <item>
+      <title>ks_youtube Daily Brief — March 19, 2026</title>
+      <description>Welcome to the show. We're covering a lot of ground today, and honestly, it feels like we're watching a major inflection point happen in real time—the moment when AI agents stop being experimental tools and become actual infrastructure that people are building real businesses on.
+
+Let's start with w...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-19.mp3" length="13895084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-73</guid>
+      <pubDate>Fri, 20 Mar 2026 03:39:38 +0000</pubDate>
+      <itunes:duration>00:11:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
