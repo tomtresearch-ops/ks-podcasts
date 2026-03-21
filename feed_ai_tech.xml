@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 01:57:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 01:56:57 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 20, 2026</title>
+      <description>Welcome back. We've got three things worth your attention today, and they're all pointing at the same underlying reality: the AI infrastructure game is shifting from who builds the smartest model to who controls the actual constraints that matter. Let's dig in.
+
+The top signal today is something tha...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-20.mp3" length="11996684" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-74</guid>
+      <pubDate>Sat, 21 Mar 2026 01:56:57 +0000</pubDate>
+      <itunes:duration>00:09:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 19, 2026</title>
       <description>Hey, thanks for tuning in. There's a lot happening in the AI infrastructure space right now, and honestly, some of it has been hiding in plain sight. Let's walk through what's actually shifting in how this technology gets built and deployed.
