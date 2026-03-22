@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2026 01:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 01:57:11 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 21, 2026</title>
+      <description>Hello. Today we're tracking some genuinely significant shifts in how AI infrastructure is organizing itself—and they're telling us something pretty important about where the real competition is actually moving.
+
+Let's start with the story that jumped out first. ArXiv just declared independence from ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-21.mp3" length="11935724" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-76</guid>
+      <pubDate>Sun, 22 Mar 2026 01:57:11 +0000</pubDate>
+      <itunes:duration>00:09:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 20, 2026</title>
       <description>Welcome back. We've got three things worth your attention today, and they're all pointing at the same underlying reality: the AI infrastructure game is shifting from who builds the smartest model to who controls the actual constraints that matter. Let's dig in.
