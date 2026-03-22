@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 03:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 03:27:36 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence Daily Brief — March 21, 2026</title>
+      <description>Hey, welcome back. We've got a lot to dig into today, and honestly, this is one of those days where the signal density is really high—there are some genuine inflection points happening in how people are actually building things right now.
+
+Let's start with what's probably the most important thing I'...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-21.mp3" length="12078284" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-78</guid>
+      <pubDate>Sun, 22 Mar 2026 03:27:36 +0000</pubDate>
+      <itunes:duration>00:10:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>YouTube Intelligence Brief — March 19, 2026</title>
       <description>Welcome to the show. We're covering a lot of ground today, and honestly, it feels like we're watching a major inflection point happen in real time—the moment when AI agents stop being experimental tools and become actual infrastructure that people are building real businesses on.
