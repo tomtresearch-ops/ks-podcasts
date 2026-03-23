@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 03:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 03:27:58 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,15 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence Daily Brief — March 22, 2026</title>
+      <description>Welcome back. We're tracking some really interesting shifts in the AI infrastructure world right now, and I want to walk you through what's actually happening beneath the headlines. Because there's a story here about markets bifurcating, data becoming the real bottleneck, and the economics of automa...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-22.mp3" length="12844844" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-81</guid>
+      <pubDate>Mon, 23 Mar 2026 03:27:58 +0000</pubDate>
+      <itunes:duration>00:10:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 21, 2026</title>
       <description>Hey, welcome back. We've got a lot to dig into today, and honestly, this is one of those days where the signal density is really high—there are some genuine inflection points happening in how people are actually building things right now.
