@@ -17,9 +17,9 @@
       <itunes:name>Knowledge Studio</itunes:name>
       <itunes:email>placeholder@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png"/>
+    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/future_medicine_podcast_cover.png"/>
     <image>
-      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png</url>
+      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/future_medicine_podcast_cover.png</url>
       <title>Future of Medicine Brief</title>
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
