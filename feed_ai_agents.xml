@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Agents Brief</title>
+    <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2026 02:31:28 +0000</lastBuildDate>
+    <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Knowledge Studio</itunes:author>
+    <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Knowledge Studio</itunes:name>
+      <itunes:email>placeholder@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png"/>
+    <image>
+      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png</url>
+      <title>AI Agents Brief</title>
+      <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <item>
+      <title>ai_agents Daily Brief — March 23, 2026</title>
+      <description>Hey, welcome back. We're looking at a pretty significant inflection point in how AI agents are actually being used—and I want to start with what I think is the most important signal of the week.
+
+Agent teams are shipping in production right now. Not as experiments, not as proofs of concept—actual pr...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-23.mp3" length="12305804" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-84</guid>
+      <pubDate>Tue, 24 Mar 2026 02:31:28 +0000</pubDate>
+      <itunes:duration>00:10:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — March 22, 2026</title>
+      <description>Welcome back. Today's agent ecosystem is crystallizing around something pretty fundamental, and it's a shift worth understanding if you're watching how this technology actually deploys in the real world.
+
+The big headline is this: we're moving away from the idea that better reasoning means better ag...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-22.mp3" length="16543244" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-80</guid>
+      <pubDate>Mon, 23 Mar 2026 02:26:25 +0000</pubDate>
+      <itunes:duration>00:13:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — March 21, 2026</title>
+      <description>Hey, welcome back. There's something genuinely interesting happening right now in how agents are actually being built and deployed in production, and it's almost nothing like what the headlines are telling you it's about.
+
+So let me start with the thing that caught my attention most today. For the l...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-21.mp3" length="13642124" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-77</guid>
+      <pubDate>Sun, 22 Mar 2026 02:23:34 +0000</pubDate>
+      <itunes:duration>00:11:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — March 20, 2026</title>
+      <description>Good morning. Let's walk through what's happening in the agent ecosystem today, because there's a real architectural shift taking place—and it's not about model capability. It's about how agents get deployed into the real world.
+
+The headline: Claude Code just shipped native integration with Telegra...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-20.mp3" length="11384684" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-75</guid>
+      <pubDate>Sat, 21 Mar 2026 02:21:17 +0000</pubDate>
+      <itunes:duration>00:09:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — March 19, 2026</title>
+      <description>So we're watching agents move from experimental to infrastructure, and that shift is creating some really specific problems that are worth your attention. Let me walk through what's happening.
+
+The headline today is that Claude Code just shipped something called context_fork that genuinely solves on...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-19.mp3" length="13118924" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-72</guid>
+      <pubDate>Fri, 20 Mar 2026 02:24:05 +0000</pubDate>
+      <itunes:duration>00:10:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — March 18, 2026</title>
+      <description>Hello and welcome. Today we're tracking a significant shift in how autonomous agents operate in the real world. And honestly, this is where the conversation gets more interesting than the hype cycle would suggest.
+
+Let's start with the biggest structural development: Stripe just announced something ...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-18.mp3" length="12817004" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-70</guid>
+      <pubDate>Thu, 19 Mar 2026 02:23:55 +0000</pubDate>
+      <itunes:duration>00:10:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ai_agents Daily Brief — March 17, 2026</title>
+      <description>Welcome back. Today we're looking at something genuinely significant: the agent ecosystem just made a fundamental shift, and it happened quietly across five or six different product launches in the span of maybe two weeks. The kind of shift that doesn't feel dramatic when it's happening but will loo...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-17.mp3" length="13678604" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-67</guid>
+      <pubDate>Wed, 18 Mar 2026 02:25:43 +0000</pubDate>
+      <itunes:duration>00:11:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

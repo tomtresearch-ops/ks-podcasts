@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local AI Intel Brief</title>
+    <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    <description>Intelligence brief on local AI, on-device models, and edge computing developments.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2026 02:13:26 +0000</lastBuildDate>
+    <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_local_ai_intel.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Knowledge Studio</itunes:author>
+    <itunes:summary>Intelligence brief on local AI, on-device models, and edge computing developments.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Knowledge Studio</itunes:name>
+      <itunes:email>placeholder@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png"/>
+    <image>
+      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/brief_podcast_cover.png</url>
+      <title>Local AI Intel Brief</title>
+      <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <item>
+      <title>Local AI Intel Daily Brief — March 23, 2026</title>
+      <description>Hey, welcome back. Let's talk about what's actually happening in the AI services space right now, because it's shifted in a really important way and I think a lot of agencies haven't noticed yet.
+
+The big inflection point we're seeing is that the market has moved past "how do we build an agent" into...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_local_ai_intel_2026-03-23.mp3" length="14634764" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-83</guid>
+      <pubDate>Tue, 24 Mar 2026 02:13:26 +0000</pubDate>
+      <itunes:duration>00:12:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Local AI Intel Daily Brief — March 18, 2026</title>
+      <description>Welcome back. We're looking at the AI services marketplace today, and there's something pretty significant happening right now: the entire value proposition of what agencies sell has fundamentally shifted. We're not talking about building agents anymore. We're talking about running them reliably, pr...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_local_ai_intel_2026-03-18.mp3" length="13726604" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-69</guid>
+      <pubDate>Thu, 19 Mar 2026 02:10:34 +0000</pubDate>
+      <itunes:duration>00:11:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

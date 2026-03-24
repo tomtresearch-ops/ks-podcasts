@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future of Medicine Brief</title>
+    <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    <description>Intelligence brief on the future of medicine, biotech, and health innovation.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2026 18:01:36 +0000</lastBuildDate>
+    <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_future_medicine.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Knowledge Studio</itunes:author>
+    <itunes:summary>Intelligence brief on the future of medicine, biotech, and health innovation.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Knowledge Studio</itunes:name>
+      <itunes:email>placeholder@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png"/>
+    <image>
+      <url>https://tomtresearch-ops.github.io/ks-podcasts/covers/health_podcast_cover.png</url>
+      <title>Future of Medicine Brief</title>
+      <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
+    </image>
+    <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>future_medicine Daily Brief — March 24, 2026</title>
+      <description>Welcome back. We're going to walk through what's happening in medicine right now, and I think you're going to see why this moment feels different. There's a genuine inflection point forming—not just incremental progress, but compression happening across multiple dimensions at once. That's what I wan...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_future_medicine_2026-03-24.mp3" length="12719564" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-86</guid>
+      <pubDate>Tue, 24 Mar 2026 18:01:36 +0000</pubDate>
+      <itunes:duration>00:10:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
