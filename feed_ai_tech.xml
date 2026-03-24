@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 01:57:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 01:55:09 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 23, 2026</title>
+      <description>Good morning. We've got a fascinating day of developments, and they're all pointing in the same direction — which is rare and worth paying attention to.
+
+Let's start with what's probably the most consequential signal: Apple just shipped an iPhone 17 Pro that runs a 400 billion parameter language mod...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-23.mp3" length="9931724" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-82</guid>
+      <pubDate>Tue, 24 Mar 2026 01:55:09 +0000</pubDate>
+      <itunes:duration>00:08:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 22, 2026</title>
       <description>What we're watching today is a pretty fundamental shift in how the AI market is organizing itself. And it's not what most people are talking about.
