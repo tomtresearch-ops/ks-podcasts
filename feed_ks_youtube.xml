@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 03:30:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:28:28 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence Daily Brief — March 24, 2026</title>
+      <description>Welcome back. We've got a lot moving today, and I want to walk you through what's actually changing underneath all the noise.
+
+Let's start with the biggest structural shift, because it ties everything else together. Claude just released a set of updates that on the surface look like feature addition...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-24.mp3" length="13313804" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-91</guid>
+      <pubDate>Wed, 25 Mar 2026 03:28:28 +0000</pubDate>
+      <itunes:duration>00:11:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 23, 2026</title>
       <description>Hey, welcome back. Today we're looking at a really important inflection point in how AI agents are being built and deployed. And honestly, it's a lot more nuanced than the headlines suggest.
