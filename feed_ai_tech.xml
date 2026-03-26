@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 01:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 01:55:10 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AI &amp; Tech Daily Brief — March 25, 2026</title>
+      <description>Hey, welcome back. Let's talk about what's actually happening in AI right now, because the story everyone's focused on is probably the wrong one.
+
+Here's what I'm seeing: the entire competitive landscape just shifted, and most people haven't caught up yet. For the last few years, the race has been a...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-25.mp3" length="9987884" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-92</guid>
+      <pubDate>Thu, 26 Mar 2026 01:55:10 +0000</pubDate>
+      <itunes:duration>00:08:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 24, 2026</title>
       <description>Hey, welcome back. Today we've got some really important signals clustering around what the next phase of AI infrastructure actually looks like. And honestly, it's clearer than it's been in a while because we're finally seeing companies make hard choices about what they're not going to own.
