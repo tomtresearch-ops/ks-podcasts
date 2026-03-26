@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 02:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 02:23:45 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>ai_agents Daily Brief — March 25, 2026</title>
+      <description>Welcome back. Today we're watching the agent infrastructure market start to really mature, and it's a shift worth understanding because it changes where the actual competitive advantage is going to be.
+
+Let's start with what feels like the most significant signal: Swift agents are breaking out of th...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-25.mp3" length="13135244" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-94</guid>
+      <pubDate>Thu, 26 Mar 2026 02:23:45 +0000</pubDate>
+      <itunes:duration>00:10:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ai_agents Daily Brief — March 24, 2026</title>
       <description>Welcome. Today we're looking at a meaningful shift in how agents are actually being deployed in production, and it centers on a single insight: agents now need to verify their own work before anything ships.
