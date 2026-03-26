@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 03:28:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 03:28:27 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
+    <item>
+      <title>YouTube Intelligence Daily Brief — March 25, 2026</title>
+      <description>Welcome back. We've got a significant pivot happening across the AI and creator economy right now, and it's worth understanding because it fundamentally changes who wins and loses in the next 18 months.
+
+Let me start with what's probably the most important signal: OpenAI is no longer building produc...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-25.mp3" length="13673804" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-95</guid>
+      <pubDate>Thu, 26 Mar 2026 03:28:27 +0000</pubDate>
+      <itunes:duration>00:11:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 24, 2026</title>
       <description>Welcome back. We've got a lot moving today, and I want to walk you through what's actually changing underneath all the noise.
