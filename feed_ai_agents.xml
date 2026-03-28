@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 02:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 02:23:45 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_agents.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief on AI agents, autonomous systems, and the agentic AI landscape.</itunes:summary>
@@ -24,15 +24,6 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
-    <item>
-      <title>ai_agents Daily Brief — March 26, 2026</title>
-      <description>Welcome back. We're covering the agent infrastructure story today, and it's really shifted in a meaningful way. The big signal is that we're watching the agent market splinter—not in a chaotic way, but in a very structured way—around where agents actually live and run. And once you see that pattern,...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-03-26.mp3" length="12764684" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-97</guid>
-      <pubDate>Fri, 27 Mar 2026 02:22:34 +0000</pubDate>
-      <itunes:duration>00:10:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
     <item>
       <title>ai_agents Daily Brief — March 25, 2026</title>
       <description>Welcome back. Today we're watching the agent infrastructure market start to really mature, and it's a shift worth understanding because it changes where the actual competitive advantage is going to be.

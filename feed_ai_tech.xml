@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 01:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 01:55:10 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ai_tech.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized daily intelligence brief covering AI, tech infrastructure, and the forces shaping the industry.</itunes:summary>
@@ -24,17 +24,6 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
-    <item>
-      <title>AI &amp; Tech Daily Brief — March 26, 2026</title>
-      <description>Welcome back. We're covering a lot of ground today, and honestly, the story that emerges is pretty important—it's a shift in how the entire AI industry is actually competing.
-
-Let's start with the top signal. Anthropic just made three announcements more or less simultaneously, and on the surface the...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_tech_2026-03-26.mp3" length="11055884" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-96</guid>
-      <pubDate>Fri, 27 Mar 2026 01:56:10 +0000</pubDate>
-      <itunes:duration>00:09:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
     <item>
       <title>AI &amp; Tech Daily Brief — March 25, 2026</title>
       <description>Hey, welcome back. Let's talk about what's actually happening in AI right now, because the story everyone's focused on is probably the wrong one.

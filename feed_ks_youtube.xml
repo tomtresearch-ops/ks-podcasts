@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 03:29:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 03:28:27 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_ks_youtube.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>Daily intelligence brief synthesizing trends, hot topics, and cross-channel convergence from a 53-channel YouTube monitoring network.</itunes:summary>
@@ -24,17 +24,6 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Technology"/>
-    <item>
-      <title>YouTube Intelligence Daily Brief — March 26, 2026</title>
-      <description>Welcome. We're looking at a market where the ground just shifted under the biggest conversation everyone's been having, and I want to walk you through what that means.
-
-For the last year, the narrative's been locked in place: pick your platform. Claude or OpenAI or Anthropic or whoever else. Build y...</description>
-      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ks_youtube_2026-03-26.mp3" length="14995724" type="audio/mpeg"/>
-      <guid isPermaLink="false">brief-podcast-98</guid>
-      <pubDate>Fri, 27 Mar 2026 03:29:33 +0000</pubDate>
-      <itunes:duration>00:12:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
     <item>
       <title>YouTube Intelligence Daily Brief — March 25, 2026</title>
       <description>Welcome back. We've got a significant pivot happening across the AI and creator economy right now, and it's worth understanding because it fundamentally changes who wins and loses in the next 18 months.
