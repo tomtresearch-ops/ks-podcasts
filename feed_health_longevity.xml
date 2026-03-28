@@ -7,7 +7,7 @@
     <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     <description>AI-synthesized intelligence brief on health, longevity, and life extension research.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 02:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 04:48:55 +0000</lastBuildDate>
     <atom:link href="https://tomtresearch-ops.github.io/ks-podcasts/feed_health_longevity.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Knowledge Studio</itunes:author>
     <itunes:summary>AI-synthesized intelligence brief on health, longevity, and life extension research.</itunes:summary>
@@ -24,6 +24,17 @@
       <link>https://tomtresearch-ops.github.io/ks-podcasts/</link>
     </image>
     <itunes:category text="Health &amp; Fitness"/>
+    <item>
+      <title>Health &amp; Longevity Daily Brief — March 28, 2026</title>
+      <description>Welcome back. We've got a really important collection of signals today, and I think they're starting to paint a picture that changes how we should be thinking about aging itself. Let me walk you through what's landed.
+
+The biggest development is probably the cleanest one we've seen in a while. Resea...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_health_longevity_2026-03-28.mp3" length="24296205" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-96</guid>
+      <pubDate>Sat, 28 Mar 2026 04:48:55 +0000</pubDate>
+      <itunes:duration>00:20:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Health &amp; Longevity Daily Brief — March 24, 2026</title>
       <description>Welcome back. Let's start with the research that's going to matter most this year.
