@@ -28,6 +28,17 @@
     </image>
     <itunes:category text="Technology"/>
     <item>
+      <title>Agents Move From Concept to Production Reality</title>
+      <description>Hey, thanks for tuning in. We're looking at agent infrastructure today, and there's something really important shifting underneath all the noise—the market is finally moving past "can agents work" to "how do we actually run them in production." And that's a completely different set of problems.
+
+Let...</description>
+      <enclosure url="https://tomtresearch-ops.github.io/ks-podcasts/podcast_ai_agents_2026-06-04.mp3" length="13967084" type="audio/mpeg"/>
+      <guid isPermaLink="false">brief-podcast-127</guid>
+      <pubDate>Fri, 05 Jun 2026 02:23:58 +0000</pubDate>
+      <itunes:duration>00:11:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>How Production Teams Are Rebuilding Agent Architecture</title>
       <description>Good morning. Let's talk about agents—and specifically, how the people actually building them in production are fundamentally rethinking what agent architectures should look like.
 
